@@ -1,1 +1,1 @@
-Hello 👋 I am a third-year Computer Informational Science student studying at the California University of Long Beach. I have always had a passion for the fields of general programming, software engineer, and computer operators. 📫
+Hello 👋 I am a fourth-year Computer Informational Science student studying at the California University of Long Beach. I have always had a passion for the fields of general programming, software engineer, and computer operators. 📫
